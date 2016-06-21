@@ -28,7 +28,7 @@
 				<rect id="connector4terminal" x="-0.123472" y="15.1165" width="0.246944" height="0.246944" />
 
 				<line id="connector5pin" x1="0.123472" y1="17.78" x2="5.20347" y2="17.78" stroke="#787878" stroke-width="0.246944" />
-				<text x="5.69736" y="18.0269" fill="#8c8c8c">SPK_1 +</text>
+				<text x="5.69736" y="18.0269" fill="#8c8c8c">SPK_1</text>
 				<rect id="connector5terminal" x="-0.123472" y="17.6565" width="0.246944" height="0.246944" />
 
 				<line id="connector6pin" x1="0.123472" y1="20.32" x2="5.20347" y2="20.32" stroke="#787878" stroke-width="0.246944" />
@@ -36,7 +36,7 @@
 				<rect id="connector6terminal" x="-0.123472" y="20.1965" width="0.246944" height="0.246944" />
 
 				<line id="connector7pin" x1="0.123472" y1="22.86" x2="5.20347" y2="22.86" stroke="#787878" stroke-width="0.246944" />
-				<text x="5.69736" y="23.1069" fill="#8c8c8c">SPK_2 -</text>
+				<text x="5.69736" y="23.1069" fill="#8c8c8c">SPK_2</text>
 				<rect id="connector7terminal" x="-0.123472" y="22.7365" width="0.246944" height="0.246944" />
 			</g>
 			<g id="right" text-anchor="end">

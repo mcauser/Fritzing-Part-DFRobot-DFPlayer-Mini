@@ -25,14 +25,14 @@
 	<g id="copper0">
 		<g class="pads" fill="none" stroke="#F7BD13" stroke-width="1.5">
 			<g class="pads-left">
-				<circle id="connector0pad" class="pad-vcc"     cx="3.6" cy="3.6" r="2.05"/>
-				<circle id="connector1pad" class="pad-rx"      cx="3.6" cy="3.6" r="2.05" transform="translate(0, 7.2)"/>
-				<circle id="connector2pad" class="pad-tx"      cx="3.6" cy="3.6" r="2.05" transform="translate(0, 14.4)"/>
-				<circle id="connector3pad" class="pad-dac-r"   cx="3.6" cy="3.6" r="2.05" transform="translate(0, 21.6)"/>
-				<circle id="connector4pad" class="pad-dac-l"   cx="3.6" cy="3.6" r="2.05" transform="translate(0, 28.8)"/>
-				<circle id="connector5pad" class="pad-spk-1-p" cx="3.6" cy="3.6" r="2.05" transform="translate(0, 36.0)"/>
-				<circle id="connector6pad" class="pad-gnd-1"   cx="3.6" cy="3.6" r="2.05" transform="translate(0, 43.2)"/>
-				<circle id="connector7pad" class="pad-spk-2-m" cx="3.6" cy="3.6" r="2.05" transform="translate(0, 50.4)"/>
+				<circle id="connector0pad" class="pad-vcc"   cx="3.6" cy="3.6" r="2.05"/>
+				<circle id="connector1pad" class="pad-rx"    cx="3.6" cy="3.6" r="2.05" transform="translate(0, 7.2)"/>
+				<circle id="connector2pad" class="pad-tx"    cx="3.6" cy="3.6" r="2.05" transform="translate(0, 14.4)"/>
+				<circle id="connector3pad" class="pad-dac-r" cx="3.6" cy="3.6" r="2.05" transform="translate(0, 21.6)"/>
+				<circle id="connector4pad" class="pad-dac-l" cx="3.6" cy="3.6" r="2.05" transform="translate(0, 28.8)"/>
+				<circle id="connector5pad" class="pad-spk-1" cx="3.6" cy="3.6" r="2.05" transform="translate(0, 36.0)"/>
+				<circle id="connector6pad" class="pad-gnd-1" cx="3.6" cy="3.6" r="2.05" transform="translate(0, 43.2)"/>
+				<circle id="connector7pad" class="pad-spk-2" cx="3.6" cy="3.6" r="2.05" transform="translate(0, 50.4)"/>
 			</g>
 			<g class="pads-right">
 				<circle id="connector15pad" class="pad-busy"    cx="3.6" cy="3.6" r="2.05" transform="translate(50.4, 0)"/>

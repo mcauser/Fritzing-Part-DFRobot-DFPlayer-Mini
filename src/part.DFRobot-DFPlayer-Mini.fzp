@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module fritzingVersion="0.9.2b.11.19.8d2d5970658f0bed09c661c9ea9a515b5f40f44c" moduleId="DFRobot_DFPlayer_Mini">
-	<version>1</version>
+<module fritzingVersion="0.9.3b" moduleId="DFRobot_DFPlayer_Mini">
+	<version>2</version>
 	<author>Mike Causer</author>
-	<title>DFRobot-DFPlayer-Mini</title>
-	<label>DFRobot-DFPlayer-Mini</label>
+	<title>DFRobot DFPlayer Mini</title>
+	<label>DFRobot DFPlayer Mini</label>
 	<date>Fri Feb 12 2016</date>
 	<url>http://www.dfrobot.com/index.php?route=product/product&amp;product_id=1121</url>
 	<tags>
@@ -19,7 +19,7 @@
 		<tag>24-bit DAC</tag>
 	</tags>
 	<properties>
-		<property name="family">DFRobot-DFPlayer-Mini</property>
+		<property name="family">DFRobot DFPlayer Mini</property>
 		<property name="variant">variant 1</property>
 		<property name="part number">DFR0299</property>
 		<property name="layer"></property>
@@ -126,7 +126,7 @@
 			</views>
 		</connector>
 		<connector id="connector5" type="male" name="SPK_1">
-			<description>Speaker + (less than 3W)</description>
+			<description>Speaker 1 (less than 3W)</description>
 			<views>
 				<breadboardView>
 					<p svgId="connector5pin" layer="breadboard"/>
@@ -156,7 +156,7 @@
 			</views>
 		</connector>
 		<connector id="connector7" type="male" name="SPK_2">
-			<description>Speaker - (less than 3W)</description>
+			<description>Speaker 2 (less than 3W)</description>
 			<views>
 				<breadboardView>
 					<p svgId="connector7pin" layer="breadboard"/>
